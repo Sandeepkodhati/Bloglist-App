@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+
+.list-item {
+  list-style-type: none;
+}
+
+.row-styling {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #12022f;
+  margin-bottom: 30px;
+}
+
+.description {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #9aa5b1;
+  margin-bottom: 20px;
+}
+
+.date {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #616e7c;
+  padding-left: 30px;
+}

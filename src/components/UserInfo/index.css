@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.profile-image {
+  height: 150px;
+  width: 150px;
+}
+
+.profile-heading {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #12022f;
+}
+
+.profile-description {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #616e7c;
+}
